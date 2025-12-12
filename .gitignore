@@ -48,7 +48,6 @@ storage/framework/sessions/
 # Cache
 storage/framework/cache/
 storage/framework/views/
-bootstrap/cache/
 
 # Compiled assets
 public/js/
