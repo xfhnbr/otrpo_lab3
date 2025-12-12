@@ -42,12 +42,7 @@ Thumbs.db
 # Logs
 *.log
 
-# Session
-storage/framework/sessions/
 
-# Cache
-storage/framework/cache/
-storage/framework/views/
 
 # Compiled assets
 public/js/
