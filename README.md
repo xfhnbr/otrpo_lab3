@@ -11,4 +11,4 @@
 8.	Выполните php artisan storage:link
 9. 	Для сборки используйте npm run build, npm run dev или npm run watch.
 10.	Запустите сервер через php artisan serve
-11.	Для добавления стандартных изображений на сайт скачать их с https://disk.360.yandex.ru/d/hhJ94-gggDIZ-Q и поместить каталог \public\storage. Должно получиться: \public\storage\museums\museum_1.jpg и т.д.
+11.	Для добавления стандартных изображений на сайт скачать их с https://disk.360.yandex.ru/d/hhJ94-gggDIZ-Q и поместить каталог \public\storage. Должно получиться: \public\storage\museums\original\, \public\storage\museums\large\ и т. д.
